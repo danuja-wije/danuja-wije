@@ -1,9 +1,12 @@
+<p align="center">
+    <a href="#">
+        <img src="/dev.png" height="300px"/>
+    </a>
+</p>
 
-<center><img src="/dev.png" height="400"/></center>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Danuja</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka.</h3>
 
-<script src="https://gist.github.com/danuja-wije/7cd8ed6309b99f48c0d34f253685931f.js"></script>
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[Crick-Analys](https://https://crick-analys.herokuapp.com/)**
