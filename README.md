@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **danujawijerathne45@gmail.com**
 
-- 🎓 university - Sri Lanka Institute of Information Technology
+- 🎓 University - Sri Lanka Institute of Information Technology
 
 - 🔬 Data Science Undergraduate
 
