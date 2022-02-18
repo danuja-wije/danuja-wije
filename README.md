@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Crick-Analys](https://https://crick-analys.herokuapp.com/)**
+- 🔭 I’m currently working on **AIDA-AI BOT**
 
 - 🌱 I’m currently learning **Natural language processing (NLP).**
 
